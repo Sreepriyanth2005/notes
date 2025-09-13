@@ -1,0 +1,214 @@
+{
+  "main": {
+    "id": "248a707fd5cf05a2",
+    "type": "split",
+    "children": [
+      {
+        "id": "d8538c7ef21973f1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5dd13dbe36c6afb3",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f93359c3d41dbdaa",
+    "type": "split",
+    "children": [
+      {
+        "id": "e95bb06dfa676441",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "393b3107e0349002",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "9918ccd7230b2b1f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "0f1627dd2d9fc8c3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "c2a2b80cdaf01152",
+    "type": "split",
+    "children": [
+      {
+        "id": "19e69828ac347280",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "987e444ec7a5fbd7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks"
+            }
+          },
+          {
+            "id": "de7a005f9b4f65a8",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "38253a879121392b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "9b0d70448867b94f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "5dd13dbe36c6afb3",
+  "lastOpenFiles": [
+    "zimages/WhatsApp Image 2025-06-28 at 09.21.52_6d3e4f1a.jpg",
+    "zimages/Untitled.base",
+    "zimages/Tree-Traversal-Techniques.webp",
+    "zimages/Screenshot 2025-06-28 092914.png",
+    "zimages/Pasted image 20250813193641.png",
+    "zimages/Pasted image 20250809211853.png",
+    "zimages/Pasted image 20250809174618.png",
+    "zimages/Pasted image 20250807222927.png",
+    "zimages/Pasted image 20250804225917.png",
+    "zimages/Pasted image 20250717121129.jpg",
+    "zimages/Pasted image 20250717121129 8.jpg",
+    "zimages/Pasted image 20250717121129 7.jpg",
+    "zimages/Oops Concept Basics.pdf",
+    "zimages/git.pdf",
+    "zimages/CN_Unit-1.pdf",
+    "zimages",
+    "Version Control/GIT.md",
+    "Version Control",
+    "Typescript",
+    "Read Up/Self Introduction.md",
+    "Read Up",
+    "Python/Scraping/WEB SCRAPING.md",
+    "Python/Scraping",
+    "Python",
+    "OS/OS Basics.md",
+    "Javascript/MEN/Status Codes.md",
+    "Javascript/MEN/Security.md",
+    "Javascript/MEN/MongoDB.md",
+    "Javascript/MEN/Node.js.md",
+    "Javascript/MEN/HTTP.md",
+    "Javascript/MEN/Express.js.md",
+    "Java/OOPS/Polymorphism.md",
+    "Java/OOPS/Oops Concept Basics.md",
+    "Java/OOPS/Inheritance.md",
+    "Java/OOPS/Abstraction.md",
+    "Java/OOPS/Encapsulation.md",
+    "Java/Java-SpringBoot/Fundamentals.md",
+    "Java/Multi Threading.md",
+    "Java/Java Basics.md",
+    "Java/Exception.md",
+    "Java/Collections.md",
+    "Focus/Need To.md",
+    "DSA/Searching/Binary Search/Search in Rotated Sorted Array.md",
+    "DSA/Searching/Binary Search/Find Minimum in Rotated Sorted Array.md",
+    "DSA/Searching/Binary Search/Find Maximum in Rotated Sorted Array.md",
+    "DSA/Searching/Binary Search/Binary Search in Matrix.md"
+  ]
+}

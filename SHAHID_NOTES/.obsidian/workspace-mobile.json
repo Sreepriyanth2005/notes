@@ -1,0 +1,215 @@
+{
+  "main": {
+    "id": "9a1a7ff1135ba81f",
+    "type": "split",
+    "children": [
+      {
+        "id": "6f52f03c2a942e2b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e2743fbd6270d7bb",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DSA/Trees/Binary Tree Concepts.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Binary Tree Concepts"
+            }
+          },
+          {
+            "id": "2bd93446bb82d1c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CN/Computer Networks Basics.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Computer Networks Basics"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b53a49dc81a85dd2",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "40899843a07862bd",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical",
+            "autoReveal": false
+          },
+          "icon": "lucide-folder-closed",
+          "title": "Files"
+        }
+      },
+      {
+        "id": "36ddc3ca5bac8fa3",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          },
+          "icon": "lucide-search",
+          "title": "Search"
+        }
+      },
+      {
+        "id": "c39a2f1e6ece1464",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-tags",
+          "title": "Tags"
+        }
+      },
+      {
+        "id": "62d5ae51dbc183a3",
+        "type": "leaf",
+        "state": {
+          "type": "bookmarks",
+          "state": {},
+          "icon": "lucide-bookmark",
+          "title": "Bookmarks"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "right": {
+    "id": "3b4cc8f7dc39fee2",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "72a54ec44c4cee37",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Version Control/GIT.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-coming-in",
+          "title": "Backlinks"
+        }
+      },
+      {
+        "id": "e51ab03a18a2c82a",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "file": "Read Up/Self Introduction.md",
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          },
+          "icon": "links-going-out",
+          "title": "Outgoing links"
+        }
+      },
+      {
+        "id": "527c25fed38d3afa",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {
+            "file": "Read Up/Self Introduction.md",
+            "followCursor": false,
+            "showSearch": false,
+            "searchQuery": ""
+          },
+          "icon": "lucide-list",
+          "title": "Outline"
+        }
+      }
+    ],
+    "currentTab": 0
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "2bd93446bb82d1c5",
+  "lastOpenFiles": [
+    "Version Control/GIT.md",
+    "Read Up/Self Introduction.md",
+    "Java/Multi Threading.md",
+    "Java/OOPS/Encapsulation.md",
+    "Design Principles & Patterns/SOLID Principles.md",
+    "DBMS/DBMS Concepts.md",
+    "DBMS/Transaction.md",
+    "Java/OOPS/Polymorphism.md",
+    "Java/OOPS/Inheritance.md",
+    "Java/Java Basics.md",
+    "Java/Exception.md",
+    "Java/OOPS/Oops Concept Basics.md",
+    "DBMS/Database Basics.md",
+    "DSA/Sorting/Quick sort.md",
+    "DSA/Sorting/Merge Sort.md",
+    "DSA/Sorting/Insertion Sort.md",
+    "DBMS/Normalization.md",
+    "DBMS/Indexing & Hashing.md",
+    "DSA/Time Complexity/Time Complexity for Searching - Sorting.md",
+    "Focus/Need To.md",
+    "DSA/DP/Fibonocci.md",
+    "DBMS/SQL/sql_cheatsheet.pdf",
+    "DSA/DP/Maximum Non-Adjacent Sum.md",
+    "C/Basics of C.md",
+    "C/Union.md",
+    "C/DMA(6).md",
+    "C/Bit Operations(3).md",
+    "OS/Bedtime Stories on Operating Systems.pdf",
+    "Pasted image 20250717121129 8.jpg",
+    "Pasted image 20250717121129 7.jpg",
+    "Pasted image 20250717121129 6.jpg",
+    "Pasted image 20250717121129 5.jpg",
+    "Pasted image 20250717121129 4.jpg",
+    "Pasted image 20250717121129 3.jpg",
+    "Pasted image 20250717121129 2.jpg",
+    "Pasted image 20250717121129 1.jpg",
+    "Pasted image 20250717121129.jpg",
+    "Company/Company Freq Problems",
+    "Untitled",
+    "Company",
+    "Focus"
+  ]
+}
